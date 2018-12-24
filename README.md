@@ -1,7 +1,7 @@
 # README #
 
 
-Created a feature branch and commited changes to the same for testing bamboo build status being depicted in JIRA issue in "Create branch" section
+created a new feature branch feature-24-dec and committing changes to the same.
 This README DEPICTS INFORMATION THAT LIE IN ONLY THE DEVELOP BRANCH OF SOURCE CODE.
 
 ### What is this repository for? ###
